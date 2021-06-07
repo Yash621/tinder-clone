@@ -7,7 +7,7 @@
 }
 .swipeButtons .MultiButton-root {
   background-color: white;
-  box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+  box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3);
 }
 .swipeButtons_repeat {
   padding: 3vw !important;
